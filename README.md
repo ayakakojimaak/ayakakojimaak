@@ -10,7 +10,7 @@
 
 <p align="justify">As a seasoned front-end engineer with a robust design background, I am dedicated to enhancing user experiences and fostering collaborative development environments., look no further.</p>
 
-<p align="center">
+<p align="right">
 <a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: ayakakojima.sk@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
