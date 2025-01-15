@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/" width="100%" alt="Banner">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI%2FUX+designer" alt="Typing SVG">
 </p>
 
