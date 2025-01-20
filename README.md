@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI%2FUX+designer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI+designer" alt="Typing SVG">
 </p>
 
 <h1 align="left">🚀 About Me</h1>
