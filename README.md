@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI+designer" alt="Typing SVG">
-</p>
-
 <h1 align="left">🚀 About Me</h1>
 
 <p align="justify">Design-Focused Frontend Developer with over 4 years of experience in graphic design and web development. Specializes in creating user-centered, responsive web solutions by integrating UI/UX principles with technical expertise. Proficient in React, TypeScript, and Figma, with a proven track record of translating design concepts into efficient, visually appealing digital products. Skilled in working collaboratively with cross-functional teams to deliver sustainable solutions that balance functionality and aesthetics.</p>
