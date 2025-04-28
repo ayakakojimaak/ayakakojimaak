@@ -1,5 +1,4 @@
-
-![header](https://github.com/user-attachments/assets/84210409-ddf4-4fdb-bda9-b01ffe4d3ad8)
+![header](https://github.com/user-attachments/assets/85269841-8e32-4bcd-b410-6ea3403049bc)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ayakakojimaak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
